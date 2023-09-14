@@ -1,0 +1,518 @@
+[
+  {
+    "name": "total_basket_assets_val",
+    "key": "ارزش کل دارایی ها"
+  },
+  {
+    "name": "dollar",
+    "key": "دلار"
+  },
+  {
+    "name": "toman",
+    "key": "تومان"
+  },
+  {
+    "name": "rial",
+    "key": "ریال"
+  },
+  {
+    "name": "frank",
+    "key": "فرانک"
+  },
+  {
+    "name": "btn_show_basket_info",
+    "key": "نمایش جزئیات سبد"
+  },
+  {
+    "name": "btn_purchase_price",
+    "key": "ویرایش"
+  },
+  {
+    "name": "btn_edit_asset_basket",
+    "key": "ویرایش سبد دارایی"
+  },
+  {
+    "name": "btn_edit_stock_basket",
+    "key": "ویرایش سبد سهام"
+  },
+  {
+    "name": "title_asset_registration",
+    "key": "ثبت داریی جدید"
+  },
+  {
+    "name": "title",
+    "key": "عنوان سبد دارایی"
+  },
+  {
+    "name": "word_title",
+    "key": "عنوان"
+  },
+  {
+    "name": "title_add_asset",
+    "key": "اضافه کردن دارایی جدید"
+  },
+  {
+    "name": "title_edit_asset",
+    "key": "ویرایش دارایی"
+  },
+  {
+    "name": "title_asset_info",
+    "key": "جزئیات دارایی"
+  },
+  {
+    "name": "sale_price",
+    "key": "قیمت فروش ?"
+  },
+  {
+    "name": "purchase_price",
+    "key": "قیمت خرید ?"
+  },
+  {
+    "name": "purchase_date",
+    "key": "تاریخ خرید"
+  },
+  {
+    "name": "sale_date",
+    "key": "تاریخ فروش"
+  },
+  {
+    "name": "ownership",
+    "key": "مالکیت"
+  },
+  {
+    "name": "province",
+    "key": "استان"
+  },
+  {
+    "name": "city",
+    "key": "شهر"
+  },
+  {
+    "name": "district",
+    "key": "محله"
+  },
+  {
+    "name": "search",
+    "key": "جست و جو"
+  },
+  {
+    "name": "location",
+    "key": "موقعیت"
+  },
+  {
+    "name": "main_street_name",
+    "key": "خیابان اصلی"
+  },
+  {
+    "name": "bystreet_name",
+    "key": "خیابان فرعی"
+  },
+  {
+    "name": "alley",
+    "key": "کوچه"
+  },
+  {
+    "name": "plaque",
+    "key": "پلاک"
+  },
+  {
+    "name": "floor",
+    "key": "طبقه"
+  },
+  {
+    "name": "unit",
+    "key": "واحد"
+  },
+  {
+    "name": "condition",
+    "key": "وضعیت"
+  },
+  {
+    "name": "parking",
+    "key": "پارکینگ"
+  },
+  {
+    "name": "elevator",
+    "key": "آسانسور"
+  },
+  {
+    "name": "balcony",
+    "key": "بالکن"
+  },
+  {
+    "name": "telephone",
+    "key": "تلفن"
+  },
+  {
+    "name": "water",
+    "key": "آب"
+  },
+  {
+    "name": "gas",
+    "key": "گاز"
+  },
+  {
+    "name": "separate_meter",
+    "key": "کنتور مجزا"
+  },
+  {
+    "name": "storage",
+    "key": "انبار"
+  },
+  {
+    "name": "inside_parking",
+    "key": "داخل پارکینگ"
+  },
+  {
+    "name": "inside_unit",
+    "key": "داخل واحد"
+  },
+
+  {
+    "name": "unit_inside_facilities",
+    "key": "امکانات داخل واحد"
+  },
+  {
+    "name": "nearby_facilities_and_access",
+    "key": "امکانات و دسترسی های اطراف"
+  },
+  {
+    "name": "more_details",
+    "key": "توضیحات بیشتر"
+  },
+  {
+    "name": "i_sold",
+    "key": "فروختم"
+  },
+  {
+    "name": "i_bought",
+    "key": "خریدم"
+  },
+  {
+    "name": "i_want_to_sell",
+    "key": "می خواهم بفروشم"
+  },
+  {
+    "name": "has_it",
+    "key": "دارد"
+  },
+  {
+    "name": "have_not",
+    "key": "ندارد"
+  },
+  {
+    "name": "general_facilities",
+    "key": "امکانات کلی"
+  },
+  {
+    "name": "personality",
+    "key": "شخصیت"
+  },
+  {
+    "name": "juridical",
+    "key": "حقوقی"
+  },
+  {
+    "name": "private",
+    "key": "حقیقی"
+  },
+
+  {
+    "name": "title_asset_basket",
+    "key": "عنوان سبد دارایی"
+  },
+  {
+    "name": "title_stock_basket",
+    "key": "عنوان سبد سهام"
+  },
+  {
+    "name": "btn_delete_asset_basket",
+    "key": "حذف سبد دارایی"
+  },
+  {
+    "name": "btn_delete_stock_basket",
+    "key": "حذف سبد سهام"
+  },
+  {
+    "name": "title_delete_confirm",
+    "key": "تایید حذف"
+  },
+  {
+    "name": "des_on_asset_basket_delete",
+    "key": "آیا سبد دارایی ? حذف شود؟"
+  },
+  {
+    "name": "des_on_asset_delete",
+    "key": "آیا دارایی حذف شود؟"
+  },
+  {
+    "name": "des_on_stock_basket_delete",
+    "key": "آیا سبد سهام ? حذف شود؟"
+  },
+  {
+    "name": "des_current_asset_form",
+    "key": "نام سهامی که قبلا خرید کرده‌اید را تایپ کنید.\nشما در هر مرتبه می توانید یک عنوان سهم را ثبت نموده و مجدد سهم بعدی را ثبت کنید تا به لیست دارایی های شما افزوده.\nهمچنین می توانید لیست سهم های موجود در سبد سهام خود را به اینجا منتقل نمایید."
+  },
+  {
+    "name": "btn_delete",
+    "key": "حذف"
+  },
+  {
+    "name": "btn_edit",
+    "key": "ویرایش"
+  },
+  {
+    "name": "btn_cancel",
+    "key": "انصراف"
+  },
+  {
+    "name": "des_asset_basket_delete",
+    "key": "با حذف سبد امکان بازگردانی آن وجود ندارد."
+  },
+  {
+    "name": "des_stock_basket_delete",
+    "key": "با حذف سبد امکان بازگردانی آن وجود ندارد.\n حذف سبد دربازه زمانی که مشترک دارد امکانپذیر نیست.\nاگر سبد با پول مجازی هدیه ساخته شده‌باشد، پس از حذف سبد اعتبار مجازی به حساب کاربر عودت داده خواهد شد."
+  },
+  {
+    "name": "des_stock_basket_rename",
+    "key": "در صورت تغییر نام سبد سهام به مشترکان آن اطلاع رسانی خواهد‌شد. اگر سبد مشترکی نداشته باشد اطلاع رسانی انجام نخواهد شد. تغییر نام در سابقه سبد ثبت می شود."
+  },
+  {
+    "name": "btn_register_assets",
+    "key": "ثبت دارایی ها"
+  },
+  {
+    "name": "btn_register_asset",
+    "key": "ثبت دارایی"
+  },
+  
+  {
+    "name": "btn_manage_basket",
+    "key": "مدیریت سبد"
+  },
+  {
+    "name": "total_assets",
+    "key": "دارایی کل"
+  },
+  {
+    "name": "basket_value",
+    "key": "ارزش سبد"
+  },
+  {
+    "name": "purchasing_power",
+    "key": "قدرت خرید"
+  },
+  {
+    "name": "date",
+    "key": "تاریخ"
+  },
+  {
+    "name": "pick_date",
+    "key": "انتخاب تاریخ"
+  },
+  {
+    "name": "type",
+    "key": "نوع"
+  },
+  {
+    "name": "name",
+    "key": "نام"
+  },
+  {
+    "name": "stock_name",
+    "key": "نام سهام"
+  },
+  {
+    "name": "count",
+    "key": "تعداد"
+  },
+  {
+    "name": "undo",
+    "key": "لغو"
+  },
+  {
+    "name": "ok",
+    "key": "تأیید"
+  },
+  {
+    "name": "sale",
+    "key": "فروش"
+  },
+  {
+    "name": "purchase",
+    "key": "خرید"
+  },
+  {
+    "name": "each_stock_price",
+    "key": "قیمت هر سهم ?"
+  },
+  {
+    "name": "price",
+    "key": "قیمت ?"
+  },
+  {
+    "name": "purchasing_price",
+    "key": "قیمت خرید"
+  },
+  {
+    "name": "current_price",
+    "key": "قیمت فعلی ?"
+  },
+  {
+    "name": "total_profit",
+    "key": "سود کل"
+  },
+  {
+    "name": "stock_basket_history",
+    "key": "سابقه سبد سهام"
+  },
+  {
+    "name": "stock_basket_management",
+    "key": "مدیریت سبد سهام"
+  },
+  {
+    "name": "category_stock",
+    "key": "سهام"
+  },
+  {
+    "name": "category_residential_house",
+    "key": "منزل مسکونی"
+  },
+  {
+    "name": "category_property",
+    "key": "ملک"
+  },
+  {
+    "name": "category_garden",
+    "key": "باغ"
+  },
+  {
+    "name": "category_gold",
+    "key": "طلا"
+  },
+  {
+    "name": "category_official_currency",
+    "key": "ارز رسمی"
+  },
+  {
+    "name": "category_digital_currency",
+    "key": "ارز دیجیتال"
+  },
+  {
+    "name": "category_car",
+    "key": "خودرو"
+  },
+  {
+    "name": "category_other",
+    "key": "سایر موارد"
+  },
+  {
+    "name": "validate_count",
+    "key": "تعداد را وارد کنید"
+  },
+  {
+    "name": "validate_price",
+    "key": "قیمت را وارد کنید"
+  },
+  {
+    "name": "validate_date",
+    "key": "تاریخ را وارد کنید"
+  },
+  {
+    "name": "validate_title",
+    "key": "عنوان را وارد کنید"
+  },
+  {
+    "name": "validate_purchase_price",
+    "key": "قیمت خرید را وارد کنید"
+  },
+  {
+    "name": "validate_sale_price",
+    "key": "قیمت فروش را وارد کنید"
+  },
+  {
+    "name": "validate_ownership",
+    "key": "مالکیت را انتخاب کنید"
+  },
+  {
+    "name": "validate_province",
+    "key": "استان را انتخاب کنید"
+  },
+  {
+    "name": "validate_city",
+    "key": "شهر را انتخاب کنید"
+  },
+  {
+    "name": "validate_district",
+    "key": "ناحیه را انتخاب کنید"
+  },
+  {
+    "name": "validate_street",
+    "key": "خیابان اصلی را وارد کنید"
+  },
+  {
+    "name": "validate_bystreet",
+    "key": "خیابان فرعی را وارد کنید"
+  },
+  {
+    "name": "validate_alley",
+    "key": "آدرس کوچه را وارد کنید"
+  },
+  {
+    "name": "validate_plaque",
+    "key": "پلاک را وارد کنید"
+  },
+  {
+    "name": "validate_floor",
+    "key": "طبقه رو وارد کنید"
+  },
+  {
+    "name": "validate_unit",
+    "key": "واحد را وارد کنید"
+  },
+  {
+    "name": "message_create_basket_success",
+    "key": "سبد با موفقیت ایجاد شد"
+  },
+  {
+    "name": "message_create_asset_success",
+    "key": "دارایی جدید با موفقیت ثبت شد"
+  },
+  {
+    "name": "message_create_basket_fail",
+    "key": "ایجاد سبد ناموفق"
+  },
+  {
+    "name": "message_unknown_error",
+    "key": "خطای نامشخص"
+  },
+  {
+    "name": "message_register_success",
+    "key": "با موفقیت ثبت شد"
+  },
+  {
+    "name": "message_under_developing_feature",
+    "key": "این قابلیت در حال توسعه است"
+  },
+  {
+    "name": "message_no_case_found",
+    "key": "موردی یافت نشد"
+  },
+  {
+    "name": "message_delete_asset_success",
+    "key": "دارایی با موفقیت حذف شد"
+  },
+  {
+    "name": "message_edit_asset_success",
+    "key": "دارایی با موفقیت ویرایش شد"
+  },
+  {
+    "name": "message_delete_asset_fail",
+    "key": "خطا! دارایی حذف نشد"
+  },
+  {
+    "name": "noteAssetForm",
+    "key": "در این بخش می توانید اطلاعات املاک خود را ثبت نمایید. \n\nدر این بخش  بزودی کارشناسان ما قیمت مسکن در مناطق مختلف را بر اساس لوکیشن، وضعیت و امکانات و مشخصه های داخلی هر واحد آپارتمان یا ویلا یا برج و ... در اختیار شما خواهند گذاشت و همچنین از قیمت های اعلام شده افراد دیگر توسط خودشان که همسایگان شما هستند مطلع می شودی که آیا مضنه قیمت مسکن در محدوده های مختلف چگونه است."
+  }
+
+]

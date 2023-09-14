@@ -1,0 +1,70 @@
+name: sabad_darai
+description: A new Flutter module project.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+    sdk: '>=2.18.2 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  bloc: ^8.1.0
+  flutter_bloc: ^8.1.1
+  get_it: ^7.2.0
+  dio: ^4.0.6
+  equatable: ^2.0.5
+  intl: ^0.17.0
+  syncfusion_flutter_charts: ^20.2.50
+  dartz: 
+  logger: ^1.1.0
+  shamsi_date: ^1.0.1
+  intl_date_picker:
+    path: packages/intl_date_picker
+  # autocomplete_textfield: ^2.0.1
+  # dropdown_search: ^5.0.3
+  dropdown_plus: 
+    path: packages/dropdown_plus
+  cached_network_image: ^3.2.2
+  sqflite: ^2.1.0+1
+  path: ^1.8.2
+  flutter_keyboard_visibility: ^5.4.0
+  async: ^2.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/image/
+    - assets/color/
+    - assets/fonts/
+    - assets/lang/
+  fonts:
+    - family: Titr
+      fonts:
+        - asset: assets/fonts/font_titr.ttf
+    - family: IRANSans
+      fonts:
+        - asset: assets/fonts/iran_sans_bold.ttf
+        - asset: assets/fonts/iran_sans_mobile_medium.ttf
+    - family: Vazir
+      fonts:
+        - asset: assets/fonts/font_vazir_medium.ttf
+    - family: Yekan
+      fonts:
+        - asset: assets/fonts/font_yekan.ttf
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/roboto_medium.ttf
+  # module:
+  #   androidX: true
+  #   androidPackage: com.example.sabad_darai
+  #   iosBundleIdentifier: com.example.sabadDarai

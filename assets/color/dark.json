@@ -1,0 +1,354 @@
+[
+  {
+    "name": "colorPrimary",
+    "key": "#000000"
+  },
+  {
+    "name": "colorPrimaryDark",
+    "key": "#0F0F0F"
+  },
+  {
+    "name": "colorAccent",
+    "key": "#0095F6"
+  },
+  {
+    "name": "colorAccentLight",
+    "key": "#AEDCF9"
+  },
+  {
+    "name": "colorAccentDark",
+    "key": "#00376B"
+  },
+  {
+    "name": "colorAccentStatusBar",
+    "key": "#0086DD"
+  },
+  {
+    "name": "colorAccentTransparent",
+    "key": "#880095F6"
+  },
+  {
+    "name": "backgroundColor",
+    "key": "#000000"
+  },
+  {
+    "name": "backgroundColorGray",
+    "key": "#050505"
+  },
+  {
+    "name": "backgroundColorBottomSheet",
+    "key": "#262626"
+  },
+  {
+    "name": "backgroundColorGrayDark",
+    "key": "#0C0C0C"
+  },
+  {
+    "name": "backgroundColorDark",
+    "key": "#D9D9D9"
+  },
+  {
+    "name": "backgroundUnseen",
+    "key": "#0F0F0F"
+  },
+  {
+    "name": "backgroundDisable",
+    "key": "#252525"
+  },
+  {
+    "name": "iconColor",
+    "key": "#D9D9D9"
+  },
+  {
+    "name": "iconColorGray",
+    "key": "#6F6F6F"
+  },
+  {
+    "name": "iconColorGrayTransparent80",
+    "key": "#CC6F6F6F"
+  },
+  {
+    "name": "iconColorDark",
+    "key": "#888888"
+  },
+  {
+    "name": "iconColorLight",
+    "key": "#5A5653"
+  },
+  {
+    "name": "iconColorLighter",
+    "key": "#383838"
+  },
+  {
+    "name": "iconColorGrayer",
+    "key": "#666666"
+  },
+  {
+    "name": "headerBackgroundColor",
+    "key": "#050505"
+  },
+  {
+    "name": "textColor",
+    "key": "#D9D9D9"
+  },
+  {
+    "name": "textColorGray",
+    "key": "#9A9A9A"
+  },
+  {
+    "name": "textColorLight",
+    "key": "#585858"
+  },
+  {
+    "name": "textColorDark",
+    "key": "#9A9A9A"
+  },
+  {
+    "name": "textColorDisable",
+    "key": "#1F1F1F"
+  },
+  {
+    "name": "colorAccentGradiantLight",
+    "key": "#26C3F5"
+  },
+  {
+    "name": "colorAccentGradiantCenter",
+    "key": "#1EBAF5"
+  },
+  {
+    "name": "edtBg",
+    "key": "#050505"
+  },
+  {
+    "name": "borderColor",
+    "key": "#242424"
+  },
+  {
+    "name": "dashedLineColor",
+    "key": "#393A3C"
+  },
+  {
+    "name": "disableButton",
+    "key": "#B2DFFC"
+  },
+  {
+    "name": "edittextIcon",
+    "key": "#666666"
+  },
+  {
+    "name": "errorColor",
+    "key": "#ED4956"
+  },
+  {
+    "name": "successColor",
+    "key": "#58C322"
+  },
+  {
+    "name": "cautionColor",
+    "key": "#CDDC39"
+  },
+  {
+    "name": "progressColor",
+    "key": "#595552"
+  },
+  {
+    "name": "boldTextDialog",
+    "key": "#D9D9D9"
+  },
+  {
+    "name": "regularTextDialog",
+    "key": "#aaaaaa"
+  },
+  {
+    "name": "messageError",
+    "key": "#ED4956"
+  },
+  {
+    "name": "messageSuccess",
+    "key": "#009688"
+  },
+  {
+    "name": "navigationBottomIcon",
+    "key": "#D9D9D9"
+  },
+  {
+    "name": "imagePlaceHolder",
+    "key": "#101010"
+  },
+  {
+    "name": "borderImage",
+    "key": "#676767"
+  },
+  {
+    "name": "bottomSheetHeader",
+    "key": "#383838"
+  },
+  {
+    "name": "removeColor",
+    "key": "#ED4956"
+  },
+  {
+    "name": "lockColor",
+    "key": "#ED4956"
+  },
+  {
+    "name": "cameraIcon",
+    "key": "#242424"
+  },
+  {
+    "name": "cameraIconClicked",
+    "key": "#383838"
+  },
+  {
+    "name": "likeColor",
+    "key": "#ED4956"
+  },
+  {
+    "name": "colorProgressDark",
+    "key": "#534F4D"
+  },
+  {
+    "name": "colorProgressLight",
+    "key": "#000000"
+  },
+  {
+    "name": "tooltipBackground",
+    "key": "#B9FFFFFF"
+  },
+  {
+    "name": "textLink",
+    "key": "#0095F6"
+  },
+  {
+    "name": "invitation_background",
+    "key": "#080808"
+  },
+  {
+    "name": "invitation_border",
+    "key": "#222222"
+  },
+  {
+    "name": "hoverColor",
+    "key": "#66FFFFFF"
+  },
+  {
+    "name": "positiveColor",
+    "key": "#03B008"
+  },
+  {
+    "name": "negativeColor",
+    "key": "#EF0800"
+  },
+  {
+    "name": "neutralBackground",
+    "key": "#2E302F"
+  },
+  {
+    "name": "volumeBackground",
+    "key": "#0D1112"
+  },
+  {
+    "name": "popupBackground",
+    "key": "#101010"
+  },
+  {
+    "name": "sendingBackground",
+    "key": "#0A0400"
+  },
+  {
+    "name": "newOrderBackground",
+    "key": "#1A0A00"
+  },
+  {
+    "name": "selectBackground",
+    "key": "#1F0E00"
+  },
+  {
+    "name": "textColorSending",
+    "key": "#363636"
+  },
+  {
+    "name": "buyColor",
+    "key": "#58C322"
+  },
+  {
+    "name": "sellColor",
+    "key": "#ED4956"
+  },
+  {
+    "name": "chartWhite",
+    "key": "#B3050505"
+  },
+  {
+    "name": "chartNegative",
+    "key": "#FF8089"
+  },
+  {
+    "name": "chartPositive",
+    "key": "#3EB3FF"
+  },
+  {
+    "name": "colorProfit",
+    "key": "#B5E1DB"
+  },
+  {
+    "name": "colorLoss",
+    "key": "#FABCD0"
+  },
+  {
+    "name": "colorChat",
+    "key": "#32A6F2"
+  },
+  {
+    "name": "colorChatOther",
+    "key": "#101010"
+  },
+  {
+    "name": "transparent",
+    "key": "#00FFFFFF"
+  },
+  {
+    "name": "white",
+    "key": "#FFFFFF"
+  },
+  {
+    "name": "black",
+    "key": "#000000"
+  },
+  {
+    "name": "textBackgroundColorLighter",
+    "key": "#EAEAEA"
+  },
+  {
+    "name": "blackLight",
+    "key": "#838383"
+  },
+  {
+    "name": "shimmer_placeholder",
+    "key": "#333333"
+  },
+  {
+    "name": "shimmer_background",
+    "key": "#444444"
+  },
+  {
+    "name": "snackbarBackground",
+    "key": "#050505"
+  },
+  {
+    "name": "backgroundTransparent",
+    "key": "#DD000000"
+  },
+  {
+    "name": "colorBackgroundCaptionFullScreen",
+    "key": "#818C9999"
+  },
+  {
+    "name": "logo",
+    "key": "#FFFFFF"
+  },
+  {
+    "name": "recomendation_background",
+    "key": "#424242"
+  }
+]
